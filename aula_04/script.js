@@ -1,3 +1,5 @@
+//PEDRO HENRIQUE DUARTE SIQUEIRA
+
 let resultado = document.getElementById("resultado");
 
 
