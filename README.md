@@ -6,3 +6,6 @@ https://pedro-duarte77.github.io/IW-2/Atividade%20Avaliativa%20-%20IW-II/
 
 # SITE - DOM
 https://pedro-duarte77.github.io/IW-2/Atividade%20DOM/index.html
+
+# JOGO - KURT
+https://pedro-duarte77.github.io/IW-2/jogo-kurt/index.html
